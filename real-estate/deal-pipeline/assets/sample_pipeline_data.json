@@ -1,0 +1,27 @@
+{
+  "deals": [
+    {"deal_id": "D-001", "address": "742 Evergreen Ter, Phoenix AZ", "stage": "under_contract", "source": "probate", "lead_date": "2026-02-01", "contact_date": "2026-02-05", "appointment_date": "2026-02-12", "offer_date": "2026-02-14", "contract_date": "2026-02-16", "close_date": null, "projected_fee": 18000, "actual_fee": null, "source_cost": 45},
+    {"deal_id": "D-002", "address": "5678 Elm Ave, Phoenix AZ", "stage": "offer_made", "source": "direct_mail", "lead_date": "2026-02-08", "contact_date": "2026-02-15", "appointment_date": "2026-02-22", "offer_date": "2026-03-01", "contract_date": null, "close_date": null, "projected_fee": 12500, "actual_fee": null, "source_cost": 120},
+    {"deal_id": "D-003", "address": "9012 Pine Rd, Tempe AZ", "stage": "closed", "source": "cold_call", "lead_date": "2026-01-10", "contact_date": "2026-01-11", "appointment_date": "2026-01-18", "offer_date": "2026-01-20", "contract_date": "2026-01-25", "close_date": "2026-02-14", "projected_fee": 15000, "actual_fee": 15750, "source_cost": 0},
+    {"deal_id": "D-004", "address": "3344 Sunset Blvd, Phoenix AZ", "stage": "appointment_set", "source": "probate", "lead_date": "2026-02-20", "contact_date": "2026-03-05", "appointment_date": "2026-03-14", "offer_date": null, "contract_date": null, "close_date": null, "projected_fee": 14000, "actual_fee": null, "source_cost": 45},
+    {"deal_id": "D-005", "address": "1122 Willow Way, Mesa AZ", "stage": "dead", "source": "direct_mail", "lead_date": "2026-01-15", "contact_date": "2026-01-22", "appointment_date": "2026-01-28", "offer_date": "2026-02-01", "contract_date": null, "close_date": null, "projected_fee": 0, "actual_fee": null, "source_cost": 120, "dead_reason": "price_gap_too_large"},
+    {"deal_id": "D-006", "address": "8800 Cactus Rd, Scottsdale AZ", "stage": "contacted", "source": "facebook_ads", "lead_date": "2026-03-01", "contact_date": "2026-03-03", "appointment_date": null, "offer_date": null, "contract_date": null, "close_date": null, "projected_fee": 22000, "actual_fee": null, "source_cost": 85},
+    {"deal_id": "D-007", "address": "2233 Desert Dr, Chandler AZ", "stage": "closed", "source": "referral", "lead_date": "2026-01-20", "contact_date": "2026-01-21", "appointment_date": "2026-01-24", "offer_date": "2026-01-25", "contract_date": "2026-01-27", "close_date": "2026-02-18", "projected_fee": 19000, "actual_fee": 19500, "source_cost": 0},
+    {"deal_id": "D-008", "address": "4455 Mesquite Ln, Glendale AZ", "stage": "new_lead", "source": "driving_for_dollars", "lead_date": "2026-03-10", "contact_date": null, "appointment_date": null, "offer_date": null, "contract_date": null, "close_date": null, "projected_fee": 11000, "actual_fee": null, "source_cost": 15}
+  ],
+  "source_budgets": {
+    "probate": 500,
+    "direct_mail": 2000,
+    "cold_call": 0,
+    "driving_for_dollars": 100,
+    "referral": 0,
+    "facebook_ads": 800
+  },
+  "targets": {
+    "avg_days_lead_to_contract": 21,
+    "avg_days_contract_to_close": 21,
+    "deals_per_month": 3,
+    "min_fee_per_deal": 10000
+  },
+  "run_date": "2026-03-12"
+}
