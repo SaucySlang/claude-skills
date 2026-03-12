@@ -1,0 +1,53 @@
+{
+  "buyers": [
+    {
+      "buyer_id": "BUY-001",
+      "name": "Mike Torres",
+      "type": "fix-and-flip",
+      "markets": ["Phoenix", "Scottsdale", "Tempe"],
+      "min_price": 100000,
+      "max_price": 350000,
+      "rehab_levels": ["light", "medium"],
+      "deals_closed": 12,
+      "response_rate_pct": 85,
+      "avg_days_to_close": 14,
+      "criteria_specificity": 8,
+      "phone": "602-555-0101",
+      "email": "mike@example.com",
+      "last_contact": "2026-02-15"
+    },
+    {
+      "buyer_id": "BUY-002",
+      "name": "Sarah Chen",
+      "type": "buy-and-hold",
+      "markets": ["Phoenix", "Mesa"],
+      "min_price": 80000,
+      "max_price": 200000,
+      "rehab_levels": ["light"],
+      "deals_closed": 31,
+      "response_rate_pct": 72,
+      "avg_days_to_close": 21,
+      "criteria_specificity": 9,
+      "phone": "602-555-0202",
+      "email": "sarah@example.com",
+      "last_contact": "2026-01-08"
+    },
+    {
+      "buyer_id": "BUY-003",
+      "name": "Dev Corp LLC",
+      "type": "developer",
+      "markets": ["Scottsdale", "Paradise Valley"],
+      "min_price": 300000,
+      "max_price": 1200000,
+      "rehab_levels": ["heavy", "teardown"],
+      "deals_closed": 7,
+      "response_rate_pct": 60,
+      "avg_days_to_close": 45,
+      "criteria_specificity": 7,
+      "phone": "480-555-0303",
+      "email": "deals@devcorp.com",
+      "last_contact": "2025-12-20"
+    }
+  ],
+  "run_date": "2026-03-12"
+}

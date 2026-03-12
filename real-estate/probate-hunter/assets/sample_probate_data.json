@@ -1,0 +1,35 @@
+{
+  "leads": [
+    {
+      "lead_id": "PRB-001",
+      "address": "1234 Oak St, Phoenix AZ 85001",
+      "equity_percent": 72,
+      "months_since_filing": 3,
+      "property_condition": "fair",
+      "heir_count": 2,
+      "estimated_value": 285000,
+      "loan_balance": 79800
+    },
+    {
+      "lead_id": "PRB-002",
+      "address": "5678 Elm Ave, Scottsdale AZ 85251",
+      "equity_percent": 91,
+      "months_since_filing": 8,
+      "property_condition": "good",
+      "heir_count": 1,
+      "estimated_value": 420000,
+      "loan_balance": 37800
+    },
+    {
+      "lead_id": "PRB-003",
+      "address": "9012 Pine Rd, Tempe AZ 85281",
+      "equity_percent": 45,
+      "months_since_filing": 14,
+      "property_condition": "poor",
+      "heir_count": 4,
+      "estimated_value": 198000,
+      "loan_balance": 108900
+    }
+  ],
+  "run_date": "2026-03-12"
+}

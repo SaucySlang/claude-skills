@@ -1,0 +1,51 @@
+{
+  "leads": [
+    {
+      "lead_id": "SKP-001",
+      "owner_name": "Robert J Martinez",
+      "property_address": "1234 Oak St, Phoenix AZ 85001",
+      "mailing_address": "9876 Saguaro Blvd, Scottsdale AZ 85254",
+      "skip_trace_result": {
+        "mobile_phone": "602-555-1001",
+        "landline": null,
+        "email": "rmartinez@email.com",
+        "phone_verified": true,
+        "owner_match_confidence": 95
+      },
+      "last_contact_date": null,
+      "dnc": false
+    },
+    {
+      "lead_id": "SKP-002",
+      "owner_name": "Patricia Williams",
+      "property_address": "5678 Elm Ave, Phoenix AZ 85003",
+      "mailing_address": null,
+      "skip_trace_result": {
+        "mobile_phone": "602-555-2002",
+        "landline": "602-555-2003",
+        "email": null,
+        "phone_verified": false,
+        "owner_match_confidence": 78
+      },
+      "last_contact_date": "2026-01-10",
+      "dnc": false
+    },
+    {
+      "lead_id": "SKP-003",
+      "owner_name": "Trust 2019 John H Davis",
+      "property_address": "9012 Pine Rd, Phoenix AZ 85006",
+      "mailing_address": "PO Box 4422, Phoenix AZ 85001",
+      "skip_trace_result": {
+        "mobile_phone": null,
+        "landline": null,
+        "email": null,
+        "phone_verified": false,
+        "owner_match_confidence": 40
+      },
+      "last_contact_date": null,
+      "dnc": false
+    }
+  ],
+  "dnc_numbers": ["602-555-9999", "480-555-8888"],
+  "run_date": "2026-03-12"
+}

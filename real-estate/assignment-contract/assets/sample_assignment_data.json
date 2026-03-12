@@ -1,0 +1,39 @@
+{
+  "deal": {
+    "deal_id": "DEAL-2026-031",
+    "property_address": "742 Evergreen Ter, Phoenix AZ 85001",
+    "purchase_price": 162000,
+    "arv": 315000,
+    "repair_cost": 42000,
+    "contract_date": "2026-03-01",
+    "closing_date": "2026-03-22",
+    "lead_date": "2026-02-20",
+    "buyer_type": "fix-and-flip",
+    "market_demand": "hot",
+    "buyer_name": "Mike Torres",
+    "buyer_entity": "MT Investments LLC",
+    "projected_assignment_fee": 25000
+  },
+  "costs": {
+    "marketing_cost": 180,
+    "due_diligence_cost": 250,
+    "misc_cost": 95
+  },
+  "milestones": {
+    "contract_signed": "2026-03-01",
+    "earnest_money_deposited": "2026-03-02",
+    "title_opened": "2026-03-03",
+    "inspection_complete": null,
+    "assignment_executed": null,
+    "assignment_fee_collected": null,
+    "buyer_funding_confirmed": null,
+    "closing_scheduled": null,
+    "deed_recorded": null
+  },
+  "actuals": {
+    "actual_assignment_fee": null,
+    "earnest_money": 2000,
+    "lessons_learned": []
+  },
+  "run_date": "2026-03-12"
+}

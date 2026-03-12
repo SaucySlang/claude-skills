@@ -1,0 +1,22 @@
+{
+  "lead": {
+    "lead_id": "SEL-001",
+    "owner_name": "Frank Henderson",
+    "property_address": "3344 Sunset Blvd, Phoenix AZ 85007",
+    "estimated_value": 278000,
+    "estimated_equity_pct": 68,
+    "motivation_signals": {
+      "timeline_urgency": "moving_out_of_state_in_60_days",
+      "financial_stress": ["behind_on_taxes"],
+      "property_condition": "deferred_maintenance",
+      "life_event": "job_relocation"
+    },
+    "source": "probate",
+    "appointments_attempted": 1,
+    "last_contact": "2026-03-05",
+    "notes": "Friendly on phone, concerned about price, mentioned 2 other investors called"
+  },
+  "comps_arv": 285000,
+  "mao": 157500,
+  "run_date": "2026-03-12"
+}

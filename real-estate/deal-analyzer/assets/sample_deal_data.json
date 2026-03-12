@@ -1,0 +1,31 @@
+{
+  "deal": {
+    "property_address": "742 Evergreen Ter, Phoenix AZ 85001",
+    "arv": 315000,
+    "asking_price": 189000,
+    "repair_cost": 42000,
+    "sqft": 1450,
+    "purchase_closing_costs_pct": 2.0,
+    "holding_months": 5,
+    "holding_cost_monthly": 1200,
+    "selling_closing_costs_pct": 1.5,
+    "agent_commission_pct": 3.0
+  },
+  "repair_scope": {
+    "roof_replace": false,
+    "hvac_replace": true,
+    "kitchen_remodel": true,
+    "bath_remodel_full": 1,
+    "bath_remodel_half": 0,
+    "flooring_sqft": 1450,
+    "interior_paint": true,
+    "exterior_paint": true,
+    "windows_count": 8,
+    "electrical_panel": false,
+    "plumbing_replumb": false,
+    "foundation_minor": false,
+    "foundation_major": false,
+    "landscaping_basic": true
+  },
+  "run_date": "2026-03-12"
+}

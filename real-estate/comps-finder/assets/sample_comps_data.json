@@ -1,0 +1,20 @@
+{
+  "subject_property": {
+    "address": "742 Evergreen Ter, Phoenix AZ 85001",
+    "sqft": 1450,
+    "beds": 3,
+    "baths": 2,
+    "garage_stalls": 1,
+    "pool": false,
+    "year_built": 1978,
+    "condition": "distressed"
+  },
+  "comps": [
+    {"comp_id": "CMP-001", "address": "738 Evergreen Ter, Phoenix AZ 85001", "sqft": 1480, "beds": 3, "baths": 2, "garage_stalls": 1, "pool": false, "sale_price": 312000, "sold_date": "2026-01-15", "distance_miles": 0.1, "condition": "updated", "sale_type": "arms_length"},
+    {"comp_id": "CMP-002", "address": "801 Oak Blvd, Phoenix AZ 85001", "sqft": 1390, "beds": 3, "baths": 2, "garage_stalls": 2, "pool": false, "sale_price": 298000, "sold_date": "2026-02-08", "distance_miles": 0.3, "condition": "updated", "sale_type": "arms_length"},
+    {"comp_id": "CMP-003", "address": "655 Maple Dr, Phoenix AZ 85001", "sqft": 1510, "beds": 3, "baths": 2, "garage_stalls": 1, "pool": true, "sale_price": 341000, "sold_date": "2025-12-20", "distance_miles": 0.5, "condition": "updated", "sale_type": "arms_length"},
+    {"comp_id": "CMP-004", "address": "920 Pine St, Phoenix AZ 85001", "sqft": 1425, "beds": 3, "baths": 1, "garage_stalls": 1, "pool": false, "sale_price": 287000, "sold_date": "2026-01-30", "distance_miles": 0.4, "condition": "good", "sale_type": "arms_length"},
+    {"comp_id": "CMP-005", "address": "612 Cedar Ave, Phoenix AZ 85001", "sqft": 1460, "beds": 3, "baths": 2, "garage_stalls": 2, "pool": false, "sale_price": 318000, "sold_date": "2026-02-22", "distance_miles": 0.6, "condition": "updated", "sale_type": "arms_length"}
+  ],
+  "run_date": "2026-03-12"
+}

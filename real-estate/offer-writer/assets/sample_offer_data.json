@@ -1,0 +1,24 @@
+{
+  "deal": {
+    "property_address": "742 Evergreen Ter, Phoenix AZ 85001",
+    "arv": 315000,
+    "repair_cost": 42000,
+    "asking_price": 195000,
+    "mao": 178500,
+    "seller_owed_mortgage": 85000,
+    "mortgage_payment": 720,
+    "mortgage_rate": 3.5,
+    "mortgage_remaining_months": 180,
+    "seller_motivation": "probate",
+    "market_type": "seller",
+    "property_condition": "fair"
+  },
+  "buyer": {
+    "type": "wholesaler",
+    "cash_available": 30000,
+    "target_assignment_fee": 15000,
+    "closing_timeline_days": 21,
+    "seller_relationship": "warm"
+  },
+  "run_date": "2026-03-12"
+}
